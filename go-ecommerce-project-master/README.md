@@ -1,5 +1,5 @@
-##**Ecommerce With Golang Project By Akhil Sharma**
-**Code-Along video series on Youtube**
+##**Ecommerce With Golang Project By balaspba**
+****
 
 ```bash
 # You can start the project with below commands
@@ -39,7 +39,7 @@ response will be like this
 ```json
 {
   "_id": "***********************",
-  "first_name": "akhil",
+  "first_name": "bala",
   "last_name": "sharma",
   "password": "$2a$14$UIYjkTfnFnhg4qhIfhtYnuK9qsBQifPKgu/WPZAYBaaN17j0eTQZa",
   "email": "akhil@gmail.com",
